@@ -15,7 +15,7 @@ The analysis focuses on **game design, pricing, and release strategy** to minimi
 🔗 **Links & References**
 
 * [Dataset on Kaggle](#) – 📊 Top 1500 Games on Steam by Revenue (2024-09-09)
-* [Deployed Dashboard](#) – 🌐 Public Tableau Dashboard
+* [Deployed Dashboard](https://public.tableau.com/app/profile/rd.ladityarsa.ilyankusuma/viz/P0M1_rd_ladityarsa_ilyankusuma/DataVisualization) – 🌐 Public Tableau Dashboard
 
 ---
 
